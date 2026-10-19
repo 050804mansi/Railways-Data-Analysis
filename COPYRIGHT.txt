@@ -1,0 +1,13 @@
+COPYRIGHT AND REUSE NOTICE
+
+Original project materials: © 2026 Mansi Saxena. All rights reserved.
+
+This notice applies to the original analysis code, notebook structure, written interpretations, report layout and original charts in this project. No license to copy, adapt, redistribute or republish those original materials is granted. Contact the author for permission: mansi53245@gmail.com.
+
+Author profiles:
+LinkedIn: https://www.linkedin.com/in/mansi-saxena-049102362
+GitHub: https://github.com/050804mansi
+
+This notice does not claim exclusive ownership of government statistics, source facts or third-party material. Source-derived values and their applicable terms remain attributable to the Ministry of Railways (Railway Board). See DATA_SOURCES.md for the full citation and table/page references.
+
+Technical limit: a copyright notice documents claimed authorship and reuse terms; it cannot prevent copying from a public repository. Use a private repository when access itself must be restricted.
